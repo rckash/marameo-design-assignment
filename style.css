@@ -85,3 +85,53 @@ button {
     font-size: 18px;
     font-weight: 600;
 }
+
+.stories {
+    background-color: #214a99;
+    color: white;
+    padding: 50px;
+}
+
+.stories h3 {
+    font-size: 40px;
+}
+
+.stories p {
+    font-size: 18px;
+    font-family: "Barlow", sans-serif;
+}
+
+.stories-cards {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    color: black;
+}
+
+.stories-cards img {
+    width: 250px;
+}
+
+.stories-cards h4 {
+    font-size: 36px;
+    padding: 0 20px;
+    padding-top: 10px;
+}
+
+.stories-cards p {
+    padding: 10px 20px;
+    padding-bottom: 20px;
+}
+
+.stories-cards a {
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-item {
+    background-color: white;
+    margin-right: 30px;
+    padding-bottom: 30px;
+}
